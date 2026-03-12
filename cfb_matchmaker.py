@@ -15,7 +15,7 @@ b1g_teams = [
 ]
 
 b1g_transfers = transfers[transfers['destination'].isin(b1g_teams)].copy()
-print(f"Found {len(b1g_transfers)} players who transferred to the Big Ten. Searching for their stats...")
+print(f"Found {len(b1g_transfers)} players who transferred to the Big Ten. Searching for stats...")
 
 dataset_rows = []
 
@@ -23,6 +23,8 @@ for index, row in b1g_transfers.iterrows():
     first_name = str(row.get('firstName', '')).strip()
     last_name = str(row.get('lastName', '')).strip()
     full_name = f"{first_name} {last_name}"
+    
+    position = str(row.get('position', 'UNKNOWN')).strip().upper()
     
     transfer_year = int(row['season'])
     prev_year = transfer_year - 1
@@ -41,23 +43,34 @@ for index, row in b1g_transfers.iterrows():
         p_stats = prev_stats.iloc[0]
         b_stats = b1g_stats.iloc[0]
         
-
-        prev_pass_yds = p_stats.get('YDS', 0) 
+        prev_yards = p_stats.get('YDS', 0) 
         prev_tackles = p_stats.get('TOT', 0)
         prev_ints = p_stats.get('INT', 0)
         prev_sacks = p_stats.get('SACKS', 0)
         
         b1g_yards = b_stats.get('YDS', 0)
         b1g_tackles = b_stats.get('TOT', 0)
+        b1g_sacks = b_stats.get('SACKS', 0)
+        b1g_ints = b_stats.get('INT', 0)
 
-        is_success = 1 if (b1g_yards > 300 or b1g_tackles > 20) else 0
+        
+        is_success = 0
+        if position == 'QB':
+            if b1g_yards > 1200: is_success = 1 # QBs need a lot of yards
+        elif position in ['RB', 'WR', 'TE']:
+            if b1g_yards > 300: is_success = 1  
+        elif position in ['LB', 'DB', 'CB', 'S', 'SAF', 'DL', 'DE', 'DT', 'EDGE']:
+            if b1g_tackles > 25 or b1g_sacks >= 3 or b1g_ints >= 1: is_success = 1 
+        else: 
+            if b1g_yards > 300 or b1g_tackles > 25: is_success = 1
 
         dataset_rows.append({
             'Player': full_name,
+            'Position': position, 
             'Year': transfer_year,
             'Origin': origin_school,
             'Destination': dest_school,
-            'Prev_Yards': prev_pass_yds,
+            'Prev_Yards': prev_yards,
             'Prev_Tackles': prev_tackles,
             'Prev_Sacks': prev_sacks,
             'Prev_INTs': prev_ints,
@@ -65,7 +78,8 @@ for index, row in b1g_transfers.iterrows():
         })
 
 final_df = pd.DataFrame(dataset_rows)
-final_df = final_df.fillna(0) 
+final_df = final_df.fillna(0)
+
 final_df.to_csv("B1G_Transfer_Dataset.csv", index=False)
 print(f"\nMatchmaker complete! Successfully linked {len(final_df)} players with full before/after stats.")
 print("  ✓ Saved as B1G_Transfer_Dataset.csv")
