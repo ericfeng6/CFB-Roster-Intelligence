@@ -1,0 +1,355 @@
+Player,Position,Year,Origin,Destination,Prev_Pass_Yds,Prev_Rush_Rec_Yds,Prev_Pass_INTs,Prev_Def_INTs,Prev_Tackles,Prev_Sacks,Success_In_B1G
+Kamo'i Latu,S,2022,Utah,Wisconsin,0.0,0.0,0.0,0.0,19.0,0.0,1
+Jacobe Covington,CB,2022,Washington,USC,0.0,0.0,0.0,0.0,5.0,1.0,0
+Marcus Washington,WR,2022,Texas,Nebraska,0.0,282.0,0.0,0.0,0.0,0.0,1
+Jarek Broussard,RB,2022,Colorado,Michigan State,0.0,742.0,0.0,0.0,0.0,0.0,1
+Gabriel Murphy,EDGE,2022,North Texas,UCLA,0.0,0.0,0.0,0.0,53.0,7.5,1
+Sean Ryan,WR,2022,West Virginia,Rutgers,0.0,399.0,0.0,0.0,0.0,0.0,1
+Devin Drew,DL,2022,Texas Tech,Nebraska,0.0,0.0,0.0,0.0,34.0,0.0,0
+Jonah Morris,WR,2022,Northern Colorado,Illinois,0.0,7.0,0.0,0.0,0.0,0.0,0
+Christian Gonzalez,S,2022,Colorado,Oregon,0.0,0.0,0.0,0.0,53.0,0.0,1
+Azizi Hearn,CB,2022,Wyoming,UCLA,0.0,0.0,0.0,0.0,30.0,0.0,1
+Jacob Copeland,WR,2022,Florida,Maryland,0.0,679.0,0.0,0.0,1.0,0.0,1
+Kyler Baugh,DL,2022,Houston Christian,Minnesota,0.0,0.0,0.0,0.0,6.0,0.5,1
+Chad Ryland,K,2022,Eastern Michigan,Maryland,0.0,0.0,0.0,0.0,0.0,0.0,0
+Brenden Rice,WR,2022,Colorado,USC,0.0,822.0,0.0,0.0,0.0,0.0,1
+Charlie Jones,WR,2022,Iowa,Purdue,0.0,1251.0,0.0,0.0,1.0,0.0,1
+Casey Rogers,DL,2022,Nebraska,Oregon,0.0,0.0,0.0,0.0,17.0,0.5,1
+Mario Williams,WR,2022,Oklahoma,USC,0.0,510.0,0.0,0.0,1.0,0.0,1
+Jordon Riley,DL,2022,Nebraska,Oregon,0.0,0.0,0.0,0.0,7.0,0.0,0
+Daymon David,S,2022,Oregon,Oregon,0.0,0.0,0.0,0.0,3.0,0.0,0
+Kody Case,WR,2022,South Dakota,Illinois,0.0,60.0,0.0,0.0,0.0,0.0,0
+Jordan Addison,WR,2022,Pittsburgh,USC,0.0,1834.0,0.0,0.0,0.0,0.0,1
+Cam Goode,DL,2022,UCF,Michigan,0.0,0.0,0.0,1.0,24.0,3.0,0
+Quashon Fuller,EDGE,2022,Florida State,Maryland,0.0,0.0,0.0,0.0,8.0,1.0,0
+Ryan Stapp,CB,2022,Abilene Christian,Minnesota,0.0,0.0,0.0,0.0,6.0,0.0,1
+Luke Akers,P,2022,UCLA,Northwestern,0.0,0.0,0.0,0.0,0.0,0.0,1
+Andrew Boyle,K,2022,Washington State,Oregon,0.0,0.0,0.0,0.0,0.0,0.0,0
+Darnell Jefferies,DL,2022,Clemson,Minnesota,0.0,0.0,0.0,0.0,1.0,0.0,0
+Ben VanSumeren,LB,2022,Michigan State,Michigan State,0.0,0.0,0.0,0.0,12.0,0.0,1
+Ryan Johnson,DL,2022,Stanford,Northwestern,0.0,0.0,0.0,0.0,15.0,0.0,0
+Henry Chibueze,DL,2022,Liberty,Maryland,0.0,0.0,0.0,0.0,18.0,2.0,0
+Eric Gentry,LB,2022,Arizona State,USC,0.0,0.0,0.0,0.0,45.0,1.0,1
+Josh Henderson,RB,2022,North Carolina,Indiana,0.0,21.0,0.0,0.0,0.0,0.0,1
+Andison Coby,WR,2022,Tennessee,Indiana,0.0,5.0,0.0,0.0,0.0,0.0,0
+Caleb Chapman,WR,2022,Texas A&M,Oregon,0.0,210.0,0.0,0.0,1.0,0.0,0
+VanDarius Cowan,LB,2022,West Virginia,Maryland,0.0,0.0,0.0,0.0,15.0,0.0,0
+Aaron Brule,LB,2022,Mississippi State,Michigan State,0.0,0.0,0.0,0.0,53.0,3.0,1
+Latrell McCutchin,CB,2022,Oklahoma,USC,0.0,0.0,0.0,0.0,9.0,0.0,0
+Bryson Shaw,S,2022,Ohio State,USC,0.0,0.0,0.0,1.0,59.0,0.0,1
+Travis Dye,RB,2022,Oregon,USC,0.0,1673.0,0.0,0.0,0.0,0.0,1
+Jay Shaw,CB,2022,UCLA,Wisconsin,0.0,0.0,0.0,3.0,27.0,0.0,1
+Adam Barry,P,2022,Temple,Oregon,0.0,0.0,0.0,0.0,0.0,0.0,1
+Darius Muasau,LB,2022,Hawai'i,UCLA,0.0,0.0,0.0,1.0,108.0,7.0,1
+Daniel Barker,TE,2022,Illinois,Michigan State,0.0,220.0,0.0,0.0,0.0,0.0,0
+Tommy DeVito,QB,2022,Syracuse,Illinois,478.0,0.0,2.0,0.0,0.0,0.0,1
+Austin Jones,RB,2022,Stanford,USC,0.0,645.0,0.0,0.0,0.0,0.0,1
+Donny Navarro,WR,2022,Illinois,Northwestern,0.0,337.0,0.0,0.0,0.0,0.0,0
+Caleb Williams,QB,2022,Oklahoma,USC,2354.0,0.0,4.0,0.0,0.0,0.0,1
+Omar Brown,CB,2022,Northern Iowa,Nebraska,0.0,0.0,0.0,0.0,8.0,0.0,0
+Wayne Taulapapa,RB,2022,Virginia,Washington,0.0,386.0,0.0,0.0,3.0,0.0,1
+DeaMonte Trayanum,LB,2022,Arizona State,Ohio State,0.0,0.0,0.0,0.0,2.0,0.0,0
+Jaylin Davies,CB,2022,Oregon,UCLA,0.0,0.0,0.0,0.0,3.0,0.0,1
+Mekhi Blackmon,CB,2022,Colorado,USC,0.0,0.0,0.0,1.0,41.0,0.0,1
+Solomon Byrd,DL,2022,Wyoming,USC,0.0,0.0,0.0,0.0,37.0,3.5,1
+Justin Clark,CB,2022,Toledo,Wisconsin,0.0,0.0,0.0,1.0,27.0,1.0,0
+Mitchell Tinsley,WR,2022,Western Kentucky,Penn State,0.0,1402.0,0.0,0.0,2.0,0.0,1
+Michael Alaimo,QB,2022,Purdue,Purdue,-3.0,0.0,0.0,0.0,0.0,0.0,0
+Shane Lee,LB,2022,Alabama,USC,0.0,0.0,0.0,0.0,6.0,0.5,1
+Ameer Speed,CB,2022,Georgia,Michigan State,0.0,0.0,0.0,0.0,13.0,0.0,1
+Terrell Bynum,WR,2022,Washington,USC,0.0,444.0,0.0,0.0,1.0,0.0,0
+Bo Nix,QB,2022,Auburn,Oregon,2462.0,0.0,3.0,0.0,0.0,0.0,1
+Jordan Perryman,CB,2022,UC Davis,Washington,0.0,0.0,0.0,0.0,5.0,0.0,1
+Ochaun Mathis,EDGE,2022,TCU,Nebraska,0.0,0.0,0.0,0.0,45.0,4.0,1
+Bradley Jennings Jr.,LB,2022,Miami,Indiana,0.0,0.0,0.0,0.0,14.0,0.0,1
+Mar'Keise Irving,RB,2022,Minnesota,Oregon,0.0,966.0,0.0,0.0,1.0,0.0,1
+Grayson Murphy,EDGE,2022,North Texas,UCLA,0.0,0.0,0.0,0.0,37.0,8.5,1
+Chase Cota,WR,2022,UCLA,Oregon,0.0,286.0,0.0,0.0,0.0,0.0,1
+Lorenza Surgers,DL,2022,Vanderbilt,Minnesota,0.0,0.0,0.0,0.0,17.0,1.0,0
+Kevin Ryan,P,2022,Idaho State,Washington,0.0,0.0,0.0,0.0,0.0,0.0,0
+Jake Bobo,WR,2022,Duke,UCLA,0.0,794.0,0.0,0.0,2.0,0.0,1
+Cam Bright,LB,2022,Pittsburgh,Washington,0.0,0.0,0.0,1.0,53.0,3.5,1
+Trey Palmer,WR,2022,LSU,Nebraska,0.0,603.0,0.0,0.0,0.0,0.0,1
+Michael Penix Jr.,QB,2022,Indiana,Washington,915.0,0.0,7.0,0.0,0.0,0.0,1
+Tyrone Taleni,DL,2022,Kansas State,USC,0.0,0.0,0.0,0.0,4.0,1.0,1
+Taishan Holmes,DL,2022,Massachusetts,Northwestern,0.0,0.0,0.0,0.0,12.0,0.0,0
+Tanner McCalister,CB,2022,Oklahoma State,Ohio State,0.0,0.0,0.0,1.0,42.0,0.0,1
+Titus Mokiao-Atimalala,WR,2022,UCF,UCLA,0.0,265.0,0.0,0.0,1.0,0.0,1
+Brian Buschini,P,2022,Montana,Nebraska,0.0,0.0,0.0,0.0,0.0,0.0,1
+Timmy Bleekrode,K,2022,Furman,Nebraska,0.0,0.0,0.0,0.0,0.0,0.0,0
+Jacoby Windmon,LB,2022,UNLV,Michigan State,0.0,0.0,0.0,0.0,118.0,6.5,1
+Kristopher Moll,LB,2022,UAB,Washington,0.0,0.0,0.0,0.0,14.0,0.0,1
+Connor Bazelak,QB,2022,Missouri,Indiana,2525.0,0.0,11.0,0.0,0.0,0.0,1
+Reese Taylor,CB,2022,Indiana,Purdue,0.0,0.0,0.0,0.0,25.0,1.0,1
+Jared Casey,LB,2022,Kentucky,Indiana,0.0,0.0,0.0,0.0,9.0,0.0,0
+Taj Harris,WR,2022,Syracuse,Rutgers,0.0,171.0,0.0,0.0,0.0,0.0,0
+Jalen Berger,RB,2022,Wisconsin,Michigan State,0.0,105.0,0.0,0.0,0.0,0.0,1
+Sam Taimani,DL,2022,Washington,Oregon,0.0,0.0,0.0,0.0,43.0,0.0,0
+Tommi Hill,CB,2022,Arizona State,Nebraska,0.0,0.0,0.0,0.0,9.0,0.0,0
+JH Tevis,EDGE,2022,California,Indiana,0.0,0.0,0.0,0.0,36.0,1.0,0
+Isaiah Garcia-Castaneda,WR,2022,New Mexico State,Nebraska,0.0,637.0,0.0,0.0,1.0,0.0,0
+Khris Bogle,EDGE,2022,Florida,Michigan State,0.0,0.0,0.0,0.0,22.0,1.5,0
+Shaun Shivers,ATH,2022,Auburn,Indiana,0.0,0.0,0.0,0.0,0.0,0.0,1
+Will Nixon,WR,2022,Nebraska,Washington,0.0,5.0,0.0,0.0,0.0,0.0,0
+Chubba Purdy,QB,2022,Florida State,Nebraska,103.0,0.0,0.0,0.0,0.0,0.0,0
+Myles Jackson,EDGE,2022,UCLA,Indiana,0.0,0.0,0.0,0.0,6.0,1.0,1
+Emery Simmons,WR,2022,North Carolina,Indiana,0.0,243.0,0.0,0.0,0.0,0.0,1
+Willie Tyler,OT,2022,UL Monroe,Rutgers,0.0,0.0,0.0,0.0,1.0,0.0,0
+Casey Thompson,QB,2022,Texas,Nebraska,2270.0,0.0,9.0,0.0,0.0,0.0,1
+Wendell Davis,LB,2022,Pittsburgh,Northwestern,0.0,0.0,0.0,0.0,22.0,1.0,0
+Shawn Bowman,TE,2023,Maine,Rutgers,0.0,358.0,0.0,0.0,1.0,0.0,0
+Tywone Malone,DL,2023,Ole Miss,Ohio State,0.0,0.0,0.0,0.0,8.0,0.0,0
+Elijah Spencer,WR,2023,Charlotte,Minnesota,0.0,943.0,0.0,0.0,0.0,0.0,0
+Nathanial Vakos,K,2023,Ohio,Wisconsin,0.0,0.0,0.0,0.0,0.0,0.0,0
+Isaiah Iton,DL,2023,Ole Miss,Rutgers,0.0,0.0,0.0,0.0,7.0,0.5,1
+Jack Henderson,S,2023,SE Louisiana,Minnesota,0.0,0.0,0.0,2.0,13.0,1.0,1
+Ryan Selig,LB,2023,Western Michigan,Minnesota,0.0,0.0,0.0,0.0,73.0,1.5,1
+Andre Carter,DL,2023,Western Michigan,Indiana,0.0,0.0,0.0,1.0,67.0,6.0,1
+Darren Barkins,CB,2023,Oregon,Washington,0.0,0.0,0.0,0.0,3.0,0.0,0
+Nikko Reed,CB,2023,Colorado,Oregon,0.0,0.0,0.0,2.0,41.0,0.0,0
+Markevious Brown,CB,2023,Ole Miss,Purdue,0.0,0.0,0.0,0.0,16.0,0.0,1
+Traeshon Holden,WR,2023,Alabama,Oregon,0.0,331.0,0.0,0.0,0.0,0.0,1
+Germie Bernard,WR,2023,Michigan State,Washington,0.0,250.0,0.0,0.0,2.0,0.0,1
+Isaiah Garcia-Castaneda,WR,2023,Nebraska,Nebraska,0.0,120.0,0.0,0.0,0.0,0.0,0
+Ben Bryant,QB,2023,Cincinnati,Northwestern,2614.0,0.0,7.0,0.0,0.0,0.0,1
+Deuce Palmer,LB,2023,SMU,USC,0.0,0.0,0.0,0.0,8.0,0.0,0
+Jake Heimlicher,EDGE,2023,Pennsylvania,UCLA,0.0,0.0,0.0,1.0,0.0,0.0,0
+Jordan Phillips,DL,2023,Tennessee,Maryland,0.0,0.0,0.0,0.0,1.0,0.0,1
+Kyon Barrs,DL,2023,Arizona,USC,0.0,0.0,0.0,0.0,39.0,0.0,0
+Josaiah Stewart,EDGE,2023,Coastal Carolina,Michigan,0.0,0.0,0.0,0.0,34.0,3.5,1
+Tyler Bride,CB,2023,Georgia Southern,Minnesota,0.0,0.0,0.0,2.0,35.0,0.0,0
+John Ferlmann,LS,2023,Arizona State,Ohio State,0.0,0.0,0.0,0.0,2.0,0.0,0
+Ja'Had Carter,S,2023,Syracuse,Ohio State,0.0,0.0,0.0,3.0,35.0,0.0,0
+Josh Cuevas,TE,2023,Cal Poly,Washington,0.0,678.0,0.0,0.0,0.0,0.0,0
+Tunmise Adeleye,DL,2023,Texas A&M,Michigan State,0.0,0.0,0.0,0.0,6.0,0.0,0
+Jabbar Muhammad,CB,2023,Oklahoma State,Washington,0.0,0.0,0.0,1.0,48.0,0.0,1
+Malik Langham,DL,2023,Vanderbilt,Purdue,0.0,0.0,0.0,0.0,13.0,0.0,0
+Philip Blidi,DL,2023,Texas Tech,Indiana,0.0,0.0,0.0,0.0,18.0,2.0,1
+Dante Cephas,WR,2023,Kent State,Penn State,0.0,756.0,0.0,0.0,0.0,0.0,0
+Josh Sanguinetti,S,2023,Indiana,Indiana,0.0,0.0,0.0,1.0,22.0,0.0,1
+Davison Igbinosun,CB,2023,Ole Miss,Ohio State,0.0,0.0,0.0,0.0,32.0,0.0,1
+J.Michael Sturdivant,WR,2023,California,UCLA,0.0,747.0,0.0,0.0,1.0,0.0,1
+Dorian Singer,WR,2023,Arizona,USC,0.0,1137.0,0.0,0.0,2.0,0.0,0
+Casey Kelly,TE,2023,Ole Miss,Oregon,0.0,25.0,0.0,0.0,0.0,0.0,0
+Darian Varner,DL,2023,Temple,Wisconsin,0.0,0.0,0.0,0.0,35.0,7.5,0
+Kobee Minor,S,2023,Texas Tech,Indiana,0.0,0.0,0.0,0.0,12.0,0.0,1
+Jaren Mangham,RB,2023,South Florida,Michigan State,0.0,128.0,0.0,0.0,0.0,0.0,0
+Collin Schlee,QB,2023,Kent State,UCLA,2707.0,0.0,5.0,0.0,0.0,0.0,0
+Anthony Jones,EDGE,2023,Oregon,Indiana,0.0,0.0,0.0,0.0,1.0,0.0,0
+Malik McClain,WR,2023,Florida State,Penn State,0.0,212.0,0.0,0.0,0.0,0.0,0
+Kyle Ford,WR,2023,USC,UCLA,0.0,365.0,0.0,0.0,0.0,0.0,0
+Dre Butler,DL,2023,Liberty,Michigan State,0.0,0.0,0.0,0.0,21.0,1.5,0
+Chief Borders,LB,2023,Florida,Nebraska,0.0,0.0,0.0,0.0,2.0,0.0,0
+Marquis Wilson,CB,2023,Penn State,Purdue,0.0,0.0,0.0,0.0,18.0,0.0,0
+Jordan Anderson,S,2023,Bowling Green,UCLA,0.0,0.0,0.0,1.0,42.0,0.5,0
+Tayven Jackson,QB,2023,Tennessee,Indiana,47.0,0.0,0.0,0.0,0.0,0.0,0
+Jestin Jacobs,LB,2023,Iowa,Oregon,0.0,0.0,0.0,0.0,6.0,0.0,1
+Jordan Burch,EDGE,2023,South Carolina,Oregon,0.0,0.0,0.0,0.0,56.0,3.5,1
+MarShawn Lloyd,RB,2023,South Carolina,USC,0.0,748.0,0.0,0.0,1.0,0.0,1
+Sean Tyler,RB,2023,Western Michigan,Minnesota,0.0,1762.0,0.0,0.0,0.0,0.0,0
+Jamil Muhammad,LB,2023,Georgia State,USC,0.0,0.0,0.0,1.0,44.0,1.5,1
+Hudson Card,QB,2023,Texas,Purdue,974.0,0.0,1.0,0.0,0.0,0.0,1
+Carson Steele,RB,2023,Ball State,UCLA,0.0,1744.0,0.0,0.0,1.0,0.0,1
+Luke Altmyer,QB,2023,Ole Miss,Illinois,128.0,0.0,1.0,0.0,0.0,0.0,1
+MJ Sherman,EDGE,2023,Georgia,Nebraska,0.0,0.0,0.0,0.0,4.0,0.5,0
+Oluwafemi Oladejo,LB,2023,California,UCLA,0.0,0.0,0.0,0.0,69.0,0.0,1
+Tanner Mordecai,QB,2023,SMU,Wisconsin,3624.0,0.0,10.0,0.0,1.0,0.0,1
+Eric Rogers,CB,2023,Northern Illinois,Rutgers,0.0,0.0,0.0,2.0,16.0,0.0,0
+Tyrese Chambers,WR,2023,Florida International,Maryland,0.0,580.0,0.0,0.0,0.0,0.0,0
+Jack Sullivan,DL,2023,Purdue,USC,0.0,0.0,0.0,0.0,33.0,5.5,0
+Avantae Williams,S,2023,Miami,Maryland,0.0,0.0,0.0,0.0,9.0,0.0,0
+Tysheem Johnson,S,2023,Ole Miss,Oregon,0.0,0.0,0.0,0.0,73.0,0.0,1
+Erick All,TE,2023,Michigan,Iowa,0.0,36.0,0.0,0.0,0.0,0.0,0
+Marcus Burris Jr.,DL,2023,Texas A&M,Indiana,0.0,0.0,0.0,0.0,1.0,0.0,0
+Deacon Hill,QB,2023,Wisconsin,Iowa,-10.0,0.0,0.0,0.0,0.0,0.0,0
+Bear Alexander,DL,2023,Georgia,USC,0.0,0.0,0.0,0.0,8.0,2.0,1
+Evan Williams,S,2023,Fresno State,Oregon,0.0,0.0,0.0,0.0,55.0,0.0,1
+Nick Jackson,LB,2023,Virginia,Iowa,0.0,0.0,0.0,0.0,104.0,5.0,1
+Moliki Matavao,TE,2023,Oregon,UCLA,0.0,137.0,0.0,0.0,0.0,0.0,0
+Khyree Jackson,CB,2023,Alabama,Oregon,0.0,0.0,0.0,0.0,7.0,0.0,1
+Corey Crooms,WR,2023,Western Michigan,Minnesota,0.0,809.0,0.0,0.0,2.0,0.0,1
+Dillon Johnson,RB,2023,Mississippi State,Washington,0.0,773.0,0.0,0.0,1.0,0.0,1
+Keanu Williams,DL,2023,Oregon,UCLA,0.0,0.0,0.0,0.0,2.0,0.0,0
+Jacob Mangum-Farrar,LB,2023,Stanford,Indiana,0.0,0.0,0.0,0.0,45.0,0.0,1
+Clayton Bush,S,2023,Southern Illinois,Illinois,0.0,0.0,0.0,1.0,1.0,0.0,1
+Ernest Hausmann,LB,2023,Nebraska,Michigan,0.0,0.0,0.0,0.0,54.0,1.0,1
+Christian Roland-Wallace,CB,2023,Arizona,USC,0.0,0.0,0.0,0.0,57.0,0.0,1
+Nicario Harper,S,2023,Louisville,Illinois,0.0,0.0,0.0,0.0,7.0,0.0,1
+E.J. Williams,WR,2023,Clemson,Indiana,0.0,70.0,0.0,0.0,0.0,0.0,0
+Chris Collins,EDGE,2023,North Carolina,Minnesota,0.0,0.0,0.0,0.0,20.0,0.0,1
+Anthony Lucas,DL,2023,Texas A&M,USC,0.0,0.0,0.0,0.0,10.0,0.0,0
+Kaden Prather,WR,2023,West Virginia,Maryland,0.0,501.0,0.0,0.0,1.0,0.0,1
+Mason Cobb,LB,2023,Oklahoma State,USC,0.0,0.0,0.0,1.0,96.0,1.0,1
+Gary Bryant Jr.,WR,2023,USC,Oregon,0.0,49.0,0.0,0.0,0.0,0.0,1
+John Paddock,QB,2023,Ball State,Illinois,2631.0,0.0,14.0,0.0,1.0,0.0,1
+Alante Brown,WR,2023,Nebraska,Michigan State,0.0,201.0,0.0,0.0,0.0,0.0,0
+Billy Kemp,WR,2023,Virginia,Nebraska,0.0,151.0,0.0,0.0,0.0,0.0,1
+Josh Wallace,CB,2023,Massachusetts,Michigan,0.0,0.0,0.0,2.0,41.0,0.0,1
+Bryson Green,WR,2023,Oklahoma State,Wisconsin,0.0,579.0,0.0,0.0,0.0,0.0,1
+Tez Johnson,WR,2023,Troy,Oregon,0.0,935.0,0.0,0.0,0.0,0.0,1
+Ralen Goforth,LB,2023,USC,Washington,0.0,0.0,0.0,1.0,38.0,0.0,1
+A.J. Henning,WR,2023,Michigan,Northwestern,0.0,511.0,0.0,0.0,0.0,0.0,1
+Jarrett Jackson,DL,2023,Florida State,Michigan State,0.0,0.0,0.0,0.0,12.0,0.0,0
+Tyneil Hopper,TE,2023,Boise State,Michigan State,0.0,108.0,0.0,0.0,0.0,0.0,0
+Cade McNamara,QB,2023,Michigan,Iowa,150.0,0.0,1.0,0.0,0.0,0.0,0
+Jason Maitre,S,2023,Boston College,Wisconsin,0.0,0.0,0.0,1.0,42.0,1.0,1
+Jeff Pietrowski,EDGE,2023,Michigan State,Wisconsin,0.0,0.0,0.0,0.0,7.0,0.0,0
+Nicolas Toomer,CB,2023,Stanford,Indiana,0.0,0.0,0.0,0.0,7.0,0.0,1
+Nathan Carter,RB,2023,UConn,Michigan State,0.0,444.0,0.0,0.0,0.0,0.0,1
+Michael Dixon,S,2023,Minnesota,Rutgers,0.0,0.0,0.0,0.0,28.0,0.0,1
+Cam Johnson,WR,2023,Arizona State,Northwestern,0.0,93.0,0.0,0.0,0.0,0.0,1
+Jalen Sami,DL,2023,Colorado,Michigan State,0.0,0.0,0.0,0.0,28.0,0.0,0
+Jaylan Franklin,TE,2023,Wisconsin,Michigan State,0.0,40.0,0.0,0.0,0.0,0.0,0
+Christian Turner,RB,2023,Wake Forest,Indiana,0.0,555.0,0.0,0.0,0.0,0.0,0
+Daniyel Ngata,RB,2023,Arizona State,Washington,0.0,736.0,0.0,0.0,0.0,0.0,1
+Jamier Johnson,CB,2023,Texas,Indiana,0.0,0.0,0.0,0.0,4.0,0.0,0
+Isaiah Nichols,DL,2023,Arkansas,Purdue,0.0,0.0,0.0,0.0,16.0,0.0,0
+Tanner Arkin,TE,2023,Colorado State,Illinois,0.0,117.0,0.0,0.0,0.0,0.0,0
+Josh Fleeks,WR,2023,Baylor,Nebraska,0.0,86.0,0.0,0.0,0.0,0.0,0
+Jack Tuttle,QB,2023,Indiana,Michigan,90.0,0.0,0.0,0.0,0.0,0.0,0
+Will Pauling,WR,2023,Cincinnati,Wisconsin,0.0,114.0,0.0,0.0,1.0,0.0,1
+Denzel Daxon,DL,2023,Ohio,Illinois,0.0,0.0,0.0,0.0,3.0,0.0,1
+Joshua Rudolph,LB,2023,Austin Peay,Indiana,0.0,0.0,0.0,0.0,12.0,0.0,0
+Lanell Carr,LB,2023,West Virginia,Indiana,0.0,0.0,0.0,0.0,21.0,1.0,1
+Connor Soelle,LB,2023,Arizona State,Oregon,0.0,0.0,0.0,0.0,29.0,0.0,0
+Jeff Sims,QB,2023,Georgia Tech,Nebraska,1404.0,0.0,3.0,0.0,0.0,0.0,0
+Riley Thompson,P,2023,Florida Atlantic,Penn State,0.0,0.0,0.0,0.0,0.0,0.0,1
+Blake Glessner,K,2023,Montana State,UCLA,0.0,0.0,0.0,0.0,0.0,0.0,0
+James Turner,K,2023,Louisville,Michigan,0.0,0.0,0.0,0.0,0.0,0.0,0
+Bryce McFerson,P,2024,Notre Dame,Maryland,0.0,0.0,0.0,0.0,1.0,0.0,1
+Dillon Gabriel,QB,2024,Oklahoma,Oregon,4070.0,0.0,6.0,0.0,1.0,0.0,1
+Reggie Love III,RB,2024,Illinois,Purdue,0.0,632.0,0.0,0.0,1.0,0.0,1
+Nikai Martinez,CB,2024,UCF,Michigan State,0.0,0.0,0.0,3.0,49.0,0.0,1
+Jaxon Howard,EDGE,2024,LSU,Minnesota,0.0,0.0,0.0,0.0,3.0,0.0,0
+Jack Velling,TE,2024,Oregon State,Michigan State,0.0,438.0,0.0,0.0,2.0,0.0,1
+John Humphrey,CB,2024,UCLA,USC,0.0,0.0,0.0,2.0,31.0,0.0,1
+Aidan Chiles,QB,2024,Oregon State,Michigan State,388.0,0.0,0.0,0.0,0.0,0.0,1
+Solomon Vanhorse,RB,2024,James Madison,Indiana,0.0,67.0,0.0,0.0,0.0,0.0,0
+Cayson Pfeiffer,LS,2024,Cincinnati,Wisconsin,0.0,0.0,0.0,0.0,3.0,0.0,0
+Jamaree Caldwell,DL,2024,Houston,Oregon,0.0,0.0,0.0,0.0,26.0,6.5,1
+Kaylin Moore,CB,2024,California,UCLA,0.0,0.0,0.0,0.0,24.0,0.0,1
+Ceyair Wright,CB,2024,USC,Nebraska,0.0,0.0,0.0,0.0,10.0,0.0,1
+Jayden Wayne,EDGE,2024,Miami,Washington,0.0,0.0,0.0,0.0,13.0,0.5,0
+Terrance Brooks,CB,2024,Texas,Illinois,0.0,0.0,0.0,3.0,20.0,0.0,0
+Kyndrich Breedlove,CB,2024,Colorado,Purdue,0.0,0.0,0.0,0.0,12.0,0.0,1
+Tyler Van Dyke,QB,2024,Miami,Wisconsin,2734.0,0.0,12.0,0.0,0.0,0.0,0
+Kaden Schickel,LS,2024,James Madison,Michigan State,0.0,0.0,0.0,0.0,2.0,0.0,0
+Tackett Curtis,LB,2024,USC,Wisconsin,0.0,0.0,0.0,0.0,37.0,2.0,1
+Dante Dowdell,RB,2024,Oregon,Nebraska,0.0,90.0,0.0,0.0,0.0,0.0,1
+Kamari Ramsey,S,2024,UCLA,USC,0.0,0.0,0.0,1.0,40.0,0.0,1
+Michael Lantz,K,2024,Georgia Southern,USC,0.0,0.0,0.0,0.0,0.0,0.0,0
+Drew Tuazama,DL,2024,South Carolina,UCLA,0.0,0.0,0.0,0.0,1.0,0.0,0
+Travis Drosos,LS,2024,South Alabama,UCLA,0.0,0.0,0.0,0.0,0.0,0.0,0
+Keelan Crimmins,P,2024,Mississippi State,Purdue,0.0,0.0,0.0,0.0,1.0,0.0,1
+Hank Pepper,LS,2024,Michigan State,USC,0.0,0.0,0.0,0.0,0.0,0.0,0
+Caleb Downs,S,2024,Alabama,Ohio State,0.0,0.0,0.0,2.0,107.0,0.0,1
+Easton Mascarenas-Arnold,LB,2024,Oregon State,USC,0.0,0.0,0.0,2.0,106.0,2.0,1
+Derek McCormick,K,2024,UL Monroe,Indiana,0.0,0.0,0.0,0.0,0.0,0.0,0
+Brody Richter,P,2024,Northern Arizona,UCLA,0.0,0.0,0.0,0.0,0.0,0.0,1
+Evan Stewart,WR,2024,Texas A&M,Oregon,0.0,511.0,0.0,0.0,0.0,0.0,1
+A.J. Harris,CB,2024,Georgia,Penn State,0.0,0.0,0.0,0.0,8.0,0.0,1
+Ethan Moczulski,K,2024,Texas A&M,Illinois,0.0,0.0,0.0,0.0,0.0,0.0,0
+Quinshon Judkins,RB,2024,Ole Miss,Ohio State,0.0,1307.0,0.0,0.0,0.0,0.0,1
+Jabbar Muhammad,CB,2024,Washington,Oregon,0.0,0.0,0.0,3.0,44.0,2.0,1
+Max Brosmer,QB,2024,New Hampshire,Minnesota,3586.0,0.0,6.0,0.0,0.0,0.0,1
+Ephesians Prysock,CB,2024,Arizona,Washington,0.0,0.0,0.0,1.0,64.0,0.0,1
+Nyland Green,CB,2024,Georgia,Purdue,0.0,0.0,0.0,0.0,7.0,0.0,0
+Jayden Maiava,QB,2024,UNLV,USC,3362.0,0.0,10.0,0.0,0.0,0.0,1
+Jahmal Banks,WR,2024,Wake Forest,Nebraska,0.0,677.0,0.0,0.0,2.0,0.0,1
+Akili Arnold,S,2024,Oregon State,USC,0.0,0.0,0.0,2.0,62.0,0.5,1
+CJ West,DL,2024,Kent State,Indiana,0.0,0.0,0.0,0.0,39.0,1.0,1
+Ethan Robinson,CB,2024,Bucknell,Minnesota,0.0,0.0,0.0,3.0,2.0,0.0,1
+Tyler Williams,WR,2024,Georgia,Minnesota,0.0,4.0,0.0,0.0,0.0,0.0,0
+Dante Moore,QB,2024,UCLA,Oregon,1527.0,0.0,9.0,0.0,0.0,0.0,0
+Jaishawn Barham,LB,2024,Maryland,Michigan,0.0,0.0,0.0,1.0,37.0,3.0,1
+Rico Flores,WR,2024,Notre Dame,UCLA,0.0,392.0,0.0,0.0,0.0,0.0,0
+Will Howard,QB,2024,Kansas State,Ohio State,3015.0,0.0,10.0,0.0,0.0,0.0,1
+Wayne Matthews III,LB,2024,Old Dominion,Michigan State,0.0,0.0,0.0,0.0,135.0,3.5,1
+Kurtis Rourke,QB,2024,Ohio,Indiana,2433.0,0.0,5.0,0.0,0.0,0.0,1
+Nate Clifton,DL,2024,Vanderbilt,USC,0.0,0.0,0.0,1.0,30.0,5.5,0
+Jalen Huskey,CB,2024,Bowling Green,Maryland,0.0,0.0,0.0,4.0,52.0,0.0,1
+Julian Fleming,WR,2024,Ohio State,Penn State,0.0,274.0,0.0,0.0,1.0,0.0,0
+Jonah Coleman,RB,2024,Arizona,Washington,0.0,1154.0,0.0,0.0,0.0,0.0,1
+Derrick Harmon,DL,2024,Michigan State,Oregon,0.0,0.0,0.0,0.0,40.0,1.5,1
+Dymere Miller,WR,2024,Monmouth,Rutgers,0.0,1335.0,0.0,0.0,0.0,0.0,1
+Leon Lowery,LB,2024,Syracuse,Wisconsin,0.0,0.0,0.0,0.0,45.0,3.5,1
+John Pius,EDGE,2024,William & Mary,Wisconsin,0.0,0.0,0.0,0.0,8.0,2.5,0
+Will Kacmarek,TE,2024,Ohio,Ohio State,0.0,248.0,0.0,0.0,0.0,0.0,0
+Jaheim Thomas,LB,2024,Arkansas,Wisconsin,0.0,0.0,0.0,0.0,89.0,2.5,1
+Will Rogers,QB,2024,Mississippi State,Washington,1613.0,0.0,4.0,0.0,0.0,0.0,1
+Bryun Parham,LB,2024,San José State,Washington,0.0,0.0,0.0,1.0,106.0,1.5,0
+Sieh Bangura,RB,2024,Ohio,Minnesota,0.0,970.0,0.0,0.0,2.0,0.0,0
+Jeremiah Hunter,WR,2024,California,Washington,0.0,810.0,0.0,0.0,1.0,0.0,1
+Elijah Sarratt,WR,2024,James Madison,Indiana,0.0,1192.0,0.0,0.0,0.0,0.0,1
+Brandon Johnson,CB,2024,Duke,Oregon,0.0,0.0,0.0,0.0,49.0,2.0,1
+Kobe Savage,S,2024,Kansas State,Oregon,0.0,0.0,0.0,3.0,57.0,0.0,1
+James Carpenter,DL,2024,James Madison,Indiana,0.0,0.0,0.0,1.0,53.0,4.0,1
+Isaiah Neyor,WR,2024,Texas,Nebraska,0.0,14.0,0.0,0.0,0.0,0.0,1
+Tommy Schuster,QB,2024,North Dakota,Michigan State,2122.0,0.0,5.0,0.0,0.0,0.0,0
+Jackson McGohan,TE,2024,LSU,Wisconsin,0.0,0.0,0.0,0.0,1.0,0.0,0
+Elijah Green,RB,2024,North Carolina,Indiana,0.0,12.0,0.0,0.0,0.0,0.0,0
+Tyrell Henry,WR,2024,Michigan State,Wisconsin,0.0,505.0,0.0,0.0,1.0,0.0,0
+Shawn Asbury II,S,2024,Old Dominion,Indiana,0.0,0.0,0.0,1.0,95.0,0.0,1
+Quindarius Dunnigan,EDGE,2024,Middle Tennessee,Michigan State,0.0,0.0,0.0,0.0,34.0,2.0,0
+Elijah Hills,DL,2024,UAlbany,Wisconsin,0.0,0.0,0.0,0.0,8.0,0.0,1
+Kaelon Black,RB,2024,James Madison,Indiana,0.0,875.0,0.0,0.0,1.0,0.0,0
+D'Quan Douse,DL,2024,Georgia Tech,Michigan State,0.0,0.0,0.0,0.0,32.0,2.0,0
+Jailin Walker,LB,2024,James Madison,Indiana,0.0,0.0,0.0,0.0,61.0,1.5,1
+Russell Davis II,EDGE,2024,Arizona,Washington,0.0,0.0,0.0,0.0,17.0,3.5,1
+MJ Morris,QB,2024,NC State,Maryland,734.0,0.0,5.0,0.0,0.0,0.0,0
+Miles Cross,WR,2024,Ohio,Indiana,0.0,606.0,0.0,0.0,0.0,0.0,1
+Tawee Walker,RB,2024,Oklahoma,Wisconsin,0.0,594.0,0.0,0.0,0.0,0.0,1
+Jordan Turner,LB,2024,Wisconsin,Michigan State,0.0,0.0,0.0,0.0,61.0,3.0,1
+Isaiah Ward,EDGE,2024,Arizona,Washington,0.0,0.0,0.0,0.0,30.0,4.0,1
+Stefon Thompson,LB,2024,Syracuse,Nebraska,0.0,0.0,0.0,0.0,49.0,1.5,1
+Cameron Broussard,S,2024,Sacramento State,Washington,0.0,0.0,0.0,2.0,11.0,0.0,1
+Jalen Kimber,CB,2024,Florida,Penn State,0.0,0.0,0.0,0.0,23.0,0.0,1
+Myles Price,WR,2024,Texas Tech,Indiana,0.0,607.0,0.0,0.0,1.0,0.0,1
+Aamir Hall,CB,2024,UAlbany,Michigan,0.0,0.0,0.0,5.0,6.0,0.0,1
+Keleki Latu,TE,2024,Nevada,Washington,0.0,179.0,0.0,0.0,0.0,0.0,1
+DeShawn Lynch,DL,2024,Sacramento State,Washington,0.0,0.0,0.0,0.0,4.0,1.0,0
+Marcus Major,RB,2024,Oklahoma,Minnesota,0.0,383.0,0.0,0.0,0.0,0.0,1
+Cristian Driver,WR,2024,Penn State,Minnesota,0.0,8.0,0.0,0.0,2.0,0.0,0
+Jay Fair,WR,2024,Auburn,USC,0.0,313.0,0.0,0.0,0.0,0.0,0
+DeCarlos Nicholson,CB,2024,Mississippi State,USC,0.0,0.0,0.0,0.0,42.0,0.0,1
+Sebastian Cheeks,LB,2024,North Carolina,Wisconsin,0.0,0.0,0.0,0.0,1.0,0.0,0
+Jeremiah Hughes,CB,2024,LSU,Michigan State,0.0,0.0,0.0,0.0,6.0,0.0,0
+Jaren Mangham,RB,2024,Michigan State,Minnesota,0.0,108.0,0.0,0.0,1.0,0.0,0
+Jacob Busic,EDGE,2024,Navy,UCLA,0.0,0.0,0.0,0.0,4.0,1.0,0
+Ke'Shawn Williams,WR,2024,Wake Forest,Indiana,0.0,600.0,0.0,0.0,1.0,0.0,1
+Aiden Fisher,LB,2024,James Madison,Indiana,0.0,0.0,0.0,1.0,107.0,1.5,1
+Ramon Henderson,S,2024,Notre Dame,UCLA,0.0,0.0,0.0,1.0,12.0,0.0,1
+Anthony Jones,EDGE,2024,Indiana,Michigan State,0.0,0.0,0.0,0.0,12.0,0.0,0
+Tyrique Tucker,DL,2024,James Madison,Indiana,0.0,0.0,0.0,0.0,30.0,1.5,0
+Malcolm Ray,DL,2024,Florida State,Rutgers,0.0,0.0,0.0,0.0,16.0,0.0,0
+Kyle Ford,WR,2024,UCLA,USC,0.0,236.0,0.0,0.0,0.0,0.0,1
+Zakhari Franklin,WR,2024,Ole Miss,Illinois,0.0,38.0,0.0,0.0,1.0,0.0,1
+Marcellius Pulliam,LB,2024,Miami,Michigan State,0.0,0.0,0.0,1.0,1.0,0.0,0
+Justice Ellison,RB,2024,Wake Forest,Indiana,0.0,609.0,0.0,0.0,0.0,0.0,1
+Brandon Lane,DL,2024,Stephen F. Austin,Wisconsin,0.0,0.0,0.0,0.0,7.0,0.0,0
+Jamarius Dinkins,DL,2024,Kentucky,Purdue,0.0,0.0,0.0,0.0,8.0,0.0,0
+Shitta Sillah,EDGE,2024,Boston College,Purdue,0.0,0.0,0.0,0.0,14.0,2.0,1
+Justin Harrington,S,2024,Oklahoma,Washington,0.0,0.0,0.0,1.0,2.0,0.0,0
+Ru'Quan Buckley,DL,2024,Nebraska,Michigan State,0.0,0.0,0.0,0.0,1.0,0.0,0
+Kam Brown,WR,2024,UCLA,Purdue,0.0,163.0,0.0,0.0,1.0,0.0,0
+Brendan Sullivan,QB,2024,Northwestern,Iowa,874.0,0.0,2.0,0.0,0.0,0.0,0
+Cedarius Doss,CB,2024,Austin Peay,Indiana,0.0,0.0,0.0,3.0,6.0,0.0,0
+Bryan Addison,S,2024,Oregon,UCLA,0.0,0.0,0.0,1.0,11.0,0.0,1
+Mike Wright,QB,2024,Mississippi State,Northwestern,777.0,0.0,3.0,0.0,0.0,0.0,0
+Ty Son Lawton,RB,2024,James Madison,Indiana,0.0,742.0,0.0,0.0,0.0,0.0,1
+Torrie Cox Jr.,CB,2024,Ohio,Illinois,0.0,0.0,0.0,1.0,36.0,1.5,1
+Charles Ross,WR,2024,San José State,USC,0.0,347.0,0.0,0.0,0.0,0.0,0
+Zach Horton,TE,2024,James Madison,Indiana,0.0,275.0,0.0,0.0,1.0,0.0,0
+Dennis Briggs Jr.,DL,2024,Florida State,Illinois,0.0,0.0,0.0,0.0,12.0,2.0,1
+Jalen Satchell,DL,2024,Old Dominion,Michigan State,0.0,0.0,0.0,0.0,15.0,1.0,0
+Mikail Kamara,DL,2024,James Madison,Indiana,0.0,0.0,0.0,0.0,51.0,7.5,1
+Gentle Hunt,DL,2024,Florida A&M,Illinois,0.0,0.0,0.0,0.0,5.0,1.5,0
+Joseph Vaughn,LB,2024,Yale,UCLA,0.0,0.0,0.0,2.0,0.0,0.0,0
+Athan Kaliakmanis,QB,2024,Minnesota,Rutgers,1932.0,0.0,9.0,0.0,1.0,0.0,1
+Bryce Pierre,TE,2024,Arizona State,UCLA,0.0,139.0,0.0,0.0,0.0,0.0,0
+Jacob Gill,WR,2024,Northwestern,Iowa,0.0,11.0,0.0,0.0,0.0,0.0,1
+Atticus Sappington,K,2024,Oregon State,Oregon,0.0,0.0,0.0,0.0,0.0,0.0,0
+Dominic Zvada,K,2024,Arkansas State,Michigan,0.0,0.0,0.0,0.0,0.0,0.0,0
+Mateen Bhaghani,K,2024,California,UCLA,0.0,0.0,0.0,0.0,0.0,0.0,0
+Ben Roberts,DL,2024,Oregon,Michigan State,0.0,0.0,0.0,0.0,2.0,0.0,0
+Gavin Meyer,DL,2024,Wyoming,USC,0.0,0.0,0.0,0.0,23.0,0.0,1

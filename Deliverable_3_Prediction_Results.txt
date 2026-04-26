@@ -1,0 +1,11 @@
+Model Accuracy based on historical data: 67.6%
+
+==========================================
+             SCOUTING REPORT              
+==========================================
+Player:          Shamar Rigby
+Profile:         WR from Oklahoma State
+Prior Stats:     351.0 Yds
+Prediction:      SUCCESS
+B1G Success Likelihood: 54.0%
+==========================================
