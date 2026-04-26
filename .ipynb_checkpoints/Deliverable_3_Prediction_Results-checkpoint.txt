@@ -1,2 +1,0 @@
-Incoming Transfer Prediction: SUCCESS
-Probability of Success: 71.0%
